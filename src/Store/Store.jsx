@@ -1,5 +1,7 @@
 
 // Creating a store For State management Using zustand
+   Storing Information further used in other components anytime information wants to be consumed by any other component
+   
 
 
 
